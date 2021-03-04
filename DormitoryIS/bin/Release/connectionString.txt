@@ -1,0 +1,1 @@
+Server=localhost;Database=dormitoryis;port=3306;username=root;password=Dimas1996
